@@ -1,3 +1,12 @@
+# Monsters Rolodex: Unearth a Searchable Menagerie of Mythical Beasts in React
+
+
+ - Tremble, mortals!  This React JS application unleashes a terrifyingly awesome collection of creatures straight from myth and legend, meticulously organized and eager to be discovered. Buckle up for an adventure, because with Monsters Rolodex, you can:
+
+- Unleash your inner monster hunter: Track down any beast with our lightning-fast search bar, powered by a fearsome API. No mythical monstrosity shall escape your grasp!
+- Witness a dynamic spectacle: Each monster crawls onto the screen in glorious detail, fetched live from the depths of the digital abyss. Prepare to be dazzled by their fearsome visages!
+- Craft your own bestiary: Built with modular React components, this app is as adaptable as a shapeshifter. Dive into the code and unleash your inner mad scientist to customize your monster experience!
+- ### [Code is Live Here](https://ansharah-gs.github.io/monsters-rolodex/) 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
